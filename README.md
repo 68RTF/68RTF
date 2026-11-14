@@ -23,7 +23,3 @@ Multimodal MCP server providing tools for audio and video processing.
 ### Environment
 
 Arch Linux / Hyprland / Wayland
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=68RTF&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
