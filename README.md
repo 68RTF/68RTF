@@ -1,16 +1,29 @@
-## Hi there 👋
+# 68RTF
 
-<!--
-**68RTF/68RTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development, Linux and systems programming.
 
-Here are some ideas to get you started:
+Mostly working with Rust and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**Veyra**  
+Native music player for Linux, built with Rust and GTK4.  
+Material Design 3 interface, synchronized lyrics and MPRIS integration.
+
+**Mnema**  
+Experiments with persistent memory and context management for local language models.
+
+**Modalis**  
+Multimodal MCP server providing tools for audio and video processing.
+
+### Stack
+
+`Rust` `Python` `GTK4` `Linux` `Git`
+
+### Environment
+
+Arch Linux / Hyprland / Wayland
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=68RTF&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
