@@ -1,25 +1,5 @@
 # 68RTF
 
-Software development, Linux and systems programming.
+Пишу софт для Linux. Сейчас делаю [Veyra](https://github.com/68RTF/veyra) — музыкальный плеер на Rust, GTK 3 и mpv.
 
-Mostly working with Rust and Python.
-
-### Projects
-
-**Veyra**  
-Native music player for Linux, built with Rust and GTK4.  
-Material Design 3 interface, synchronized lyrics and MPRIS integration.
-
-**Mnema**  
-Experiments with persistent memory and context management for local language models.
-
-**Modalis**  
-Multimodal MCP server providing tools for audio and video processing.
-
-### Stack
-
-`Rust` `Python` `GTK4` `Linux` `Git`
-
-### Environment
-
-Arch Linux / Hyprland / Wayland
+[Скриншот](https://github.com/68RTF/veyra/blob/main/docs/player.png) · [Скачать для Arch, Ubuntu и Debian](https://github.com/68RTF/veyra/releases)
